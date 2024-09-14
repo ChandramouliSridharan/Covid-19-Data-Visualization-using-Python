@@ -1,1 +1,1 @@
-# Covid-19-Data-Visualization-using-Python-
+# Covid-19-Data-Visualization-using-Python
